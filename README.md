@@ -4,7 +4,7 @@
 
 ### 1.1 Install Pre-Built Chat Interface
 
-We use **[Ollama](https://ollama.com/)**
+We use **[Ollama](https://ollama.com/)** <br>
 -> Provides a simple API for creating, running, and managing models
 
 1. Installed the package from the home page of **[Ollama](https://ollama.com/)**
@@ -22,7 +22,7 @@ ollama run llama3.2
 
 #### To run it with a WebUI
 
-We use **[Hollama](https://github.com/fmaclen/hollama)**
+We use **[Hollama](https://github.com/fmaclen/hollama)** <br>
 -> Provides a simple User Interface to interact with the installed LLM
 
 1. Downloaded the latest supported version available from [Link](https://github.com/fmaclen/hollama/releases) which is 0.17.0 as of today.
@@ -33,11 +33,12 @@ We use **[Hollama](https://github.com/fmaclen/hollama)**
 ### Running it on the terminal
 
 1. Initiated my terminal on macOS
-2. Ran the command
+2. Ran the following command to interact with the LLM
+
    ```
    ollama run llama3.2
    ```
-   to start interacting with the LLM
+
 3. This is the interface I was presented with
    ![initterm](assets/infterm.png)
 4. Test cases to ensure it has basic communication
