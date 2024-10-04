@@ -4,7 +4,7 @@
 
 ### 1.1 Install Pre-Built Chat Interface
 
-We use **[Ollama](https://ollama.com/)** <br>
+We use **[Ollama](https://ollama.com/)**
 -> Provides a simple API for creating, running, and managing models
 
 1. Installed the package from the home page of **[Ollama](https://ollama.com/)**
@@ -22,7 +22,7 @@ ollama run llama3.2
 
 #### To run it with a WebUI
 
-We use **[Hollama](https://github.com/fmaclen/hollama)** <br>
+We use **[Hollama](https://github.com/fmaclen/hollama)**
 -> Provides a simple User Interface to interact with the installed LLM
 
 1. Downloaded the latest supported version available from [Link](https://github.com/fmaclen/hollama/releases) which is 0.17.0 as of today.
