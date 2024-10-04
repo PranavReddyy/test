@@ -34,16 +34,16 @@ We use **[Hollama](https://github.com/fmaclen/hollama)**
 
 1. Initiated my terminal on macOS
 2. Ran the command
-
-```
-ollama run llama3.2
-```
-
-to start interacting with the LLM <br> 3. This is the interface I was presented with
-![initterm](assets/infterm.png) 4. Test cases to ensure it has basic communication
-![hterm](assets/hterm.png)
-![trigterm](assets/trigterm.png)
-![moneyterm](assets/moneyterm.png)
+   ```
+   ollama run llama3.2
+   ```
+   to start interacting with the LLM
+3. This is the interface I was presented with
+   ![initterm](assets/infterm.png)
+4. Test cases to ensure it has basic communication
+   ![hterm](assets/hterm.png)
+   ![trigterm](assets/trigterm.png)
+   ![moneyterm](assets/moneyterm.png)
 
 ### Runninng it on the webUI
 
