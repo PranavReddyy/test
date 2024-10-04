@@ -18,6 +18,8 @@ We use llama3.2 as our LLM model, initiated the download with :
 ollama run llama3.2
 ```
 
+![download](assets/download.png)
+
 #### To run it with a WebUI
 
 We use **[Hollama](https://github.com/fmaclen/hollama)**
@@ -31,13 +33,17 @@ We use **[Hollama](https://github.com/fmaclen/hollama)**
 ### Running it on the terminal
 
 1. Initiated my terminal on macOS
-2. Ran the command `ollama run llama3.2` to start interacting with the LLM
-3. This is the interface I was presented with
-   ![initterm](assets/infterm.png)
-4. Test cases to ensure it has basic communication
-   ![hterm](assets/hterm.png)
-   ![trigterm](assets/trigterm.png)
-   ![moneyterm](assets/moneyterm.png)
+2. Ran the command
+
+```
+ollama run llama3.2
+```
+
+to start interacting with the LLM <br> 3. This is the interface I was presented with
+![initterm](assets/infterm.png) 4. Test cases to ensure it has basic communication
+![hterm](assets/hterm.png)
+![trigterm](assets/trigterm.png)
+![moneyterm](assets/moneyterm.png)
 
 ### Runninng it on the webUI
 
@@ -52,4 +58,3 @@ We use **[Hollama](https://github.com/fmaclen/hollama)**
    ![test2.1](assets/hh.png)
    ![test2.2](assets/trigh.png)
    ![test2.3](assets/codeh.png)
-
