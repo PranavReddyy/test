@@ -12,7 +12,7 @@ We use **[Ollama](https://ollama.com/)**
 
 ### 1.2 Install an Open-Source Model
 
-We use llama3.2 as our LLM model, initiated the download with :
+We use llama3.2 as our LLM model, initiated the download in the terminal with :
 
 ```
 ollama run llama3.2
@@ -20,7 +20,7 @@ ollama run llama3.2
 
 ![download](assets/download.png)
 
-#### To run it with a WebUI
+### 1.3 To run it with a WebUI
 
 We use **[Hollama](https://github.com/fmaclen/hollama)**
 -> Provides a simple User Interface to interact with the installed LLM
@@ -28,9 +28,9 @@ We use **[Hollama](https://github.com/fmaclen/hollama)**
 1. Downloaded the latest supported version available from [Link](https://github.com/fmaclen/hollama/releases) which is 0.17.0 as of today.
 2. Ran the installed application
 
-## Running the interface
+## 2 Running the interface
 
-### Running it on the terminal
+### 2.1 Running it on the terminal
 
 1. Initiated my terminal on macOS
 2. Ran the following command to interact with the LLM
@@ -46,7 +46,7 @@ We use **[Hollama](https://github.com/fmaclen/hollama)**
    ![trigterm](assets/trigterm.png)
    ![moneyterm](assets/moneyterm.png)
 
-### Runninng it on the webUI
+### 2.2 Runninng it on the webUI
 
 1. Open Hollama Application
 2. Open the settings menu
